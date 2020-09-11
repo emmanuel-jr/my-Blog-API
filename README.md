@@ -23,4 +23,4 @@ It should display
     Listening on http://localhost:3000
 
 Your Node.js server is ready to go.
-Now you can check out the [website]()
+Now you can check out the [website](https://emmanuel-jr.github.io/my-Blog-app/)
