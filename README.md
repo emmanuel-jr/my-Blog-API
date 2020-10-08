@@ -4,7 +4,7 @@
 
 Clone the repository into a folder
 
-    git clone https://github.com/CleverProgrammers/pwj-module-8-my-blog-api.git
+    git clone https://github.com/emmanuel-jr/my-Blog-API.git
 
 Install [Node.js](https://nodejs.org/en/) if you haven't
 
